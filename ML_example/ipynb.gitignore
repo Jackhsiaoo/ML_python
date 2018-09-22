@@ -1,3 +1,4 @@
 # Prerequisites
-*.ipynb
+# Jupyter Notebook
+.ipynb_checkpoints
 *.txt
